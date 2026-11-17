@@ -15,3 +15,4 @@ Source and build: `Marketing/output/hero-motion-space/build_dist.py` in the Lead
 Ribbon hero for the three nav-linked solutions pages: `leadle-hero-ribbon.v1.0.0.min.js` (braid / loop / unroll chosen from the path) with stills `hero-ribbon-{braid,loop,unroll}.v1.webp`. Built from `Marketing/output/hero-motion-space/leadle-hero-ribbon.html` by `build_dist_ribbon.py`.
 
 - v1.0.1 (18 Nov 2026): ribbons span the viewport width (no visible ends on wide monitors); loop shallower and lower on wide, short heroes.
+- v1.0.2 (18 Nov 2026): the readability scrim dims only the bands and their glow, with a longer falloff, so no dark rectangle shows behind the copy.
